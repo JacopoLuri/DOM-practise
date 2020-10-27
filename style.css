@@ -1,0 +1,11 @@
+.img-student {
+  height: 200px;
+}
+
+.col-sm {
+  margin-bottom: 20px;
+}
+
+.container-students {
+  overflow-x: auto;
+}
