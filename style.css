@@ -9,3 +9,23 @@
 .container-students {
   overflow-x: auto;
 }
+
+.categories-container {
+  display: flex;
+  justify-content: center;
+}
+
+.categories-option {
+  width: 10%;
+  height: 70px;
+  background-color: azure;
+  border: 1px solid white;
+  text-align: center;
+  margin-bottom: 40px;
+  padding: 20px;
+}
+
+.categories-option:hover {
+  background-color: cadetblue;
+}
+
